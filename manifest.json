@@ -1,6 +1,6 @@
 {
-    "name": "whatsapp_verification",
-    "short_name": "whatsapp_verification",
+    "name": "donotsave",
+    "short_name": "donotsave",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
